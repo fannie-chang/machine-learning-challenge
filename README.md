@@ -12,8 +12,6 @@ To utilize the given raw data to create machine learning models capable of class
 
 ## Methods Used 
 
-Models: 
-
 	* Support Vector Machine
 	* Random Forest
 	* Deep Learning
