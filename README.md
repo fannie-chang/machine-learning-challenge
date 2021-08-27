@@ -32,9 +32,9 @@ To utilize the given raw data to create machine learning models capable of class
 
 After eliminated unnecessary features, the overall rate of accuracy has been improved. Each model is based on the top 10 important features for testing.  Below is the accuracy rate. 
 
-	* Support Vector Machine Model: 85.4%
-	* Random Forest Model: 90%
-	* Deep Learning Model: 87.3%
+	* Support Vector Machine Model: 85.2%
+	* Random Forest Model: 87.3%
+	* Deep Learning Model: 85.8%
 
 
 	 
